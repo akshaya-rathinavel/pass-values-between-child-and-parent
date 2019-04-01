@@ -1,0 +1,5 @@
+.view-parent,
+.view-child{
+  padding: 30px;
+  border: 1px solid #000;
+}

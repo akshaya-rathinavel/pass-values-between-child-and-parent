@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+.parent{
+  padding: 30px;
+  border: 1px solid #000;
+}
+.child{
+  padding: 30px;
+  border: 1px solid #000;
+}

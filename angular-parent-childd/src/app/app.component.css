@@ -1,0 +1,30 @@
+p {
+  font-family: Lato;
+}
+.parent{
+  padding: 30px;
+  border: 1px solid #000;
+}
+.child{
+  padding: 30px;
+  border: 1px solid #000;
+}
+.headerBar{
+  padding: 10px 15px;
+  background-color: #000;
+}
+.navBar{
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+.navBarOuter{
+  padding:5px;
+  cursor: pointer;
+  border: 1px solid #fff;
+  margin-bottom: 20px;
+  outline:none;
+}
+.navBarOuter:last-child{
+  margin-bottom: 0;
+}
